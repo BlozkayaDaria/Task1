@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(203, 255, 251);
+    
+    
+    }
+    a{
+        position: absolute;
+        top:40%;
+        left:50%;
+        transform: translate(-50%, -50%);
+        color: rgb(255, 75, 129);
+        font-size: 64px;
+         font-style: oblique;
+    }
+    .task1{
+        background-color: rgb(250, 241, 203);
+        border: 7px solid rgb(255, 197, 236);
+        border-radius: 100px;
+        color: rgb(24, 137, 172);
+        position: absolute;
+        top:70%;
+        left:30%;
+        transform: translate(-50%, -50%);
+        font-style: italic;
+        font-size: 24px;
+    }
+    b{
+        background-color: rgb(250, 241, 203);
+        border: 7px solid rgb(255, 197, 236);
+        border-radius: 100px;
+        color: rgb(24, 137, 172);
+        position: absolute;
+        top:70%;
+        left:70%;
+        transform: translate(-50%, -50%);
+        font-style: italic;
+        font-size: 24px;
+    }
+    c{
+        background-color: rgb(250, 241, 203);
+        border: 7px solid rgb(255, 197, 236);
+        border-radius: 100px;
+        color: rgb(24, 137, 172);
+        position: absolute;
+        top:80%;
+        left:50%;
+        transform: translate(-50%, -50%);
+        font-style: italic;
+        font-size: 24px;
+    }
